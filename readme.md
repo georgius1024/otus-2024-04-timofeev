@@ -1,3 +1,6 @@
 # OTUS QA JS GIT LESSON
 
 # FEATURES LIST
+- F1
+- F2
+- F3
